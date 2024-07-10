@@ -60,7 +60,7 @@ const AboutSection = () => {
             />
             <div className='mt-4 md:mt-0 text-left flex flex-col h-full'>
                 <h2 className='text-4xl font-bold text-white mb-4'>About Me</h2>
-                <p className='text-base lg:text-lg'> Hi, I'm Ankit Bhardwaj a dedicated and skilled software developer with a passion for web development and artificial intelligence. He is a fast learner, capable of adapting to any work environment with ease. Alongside his professional skills, Ankit excels at football and enjoys playing outdoor games. He is known for his strong work ethic, reliability, and ability to collaborate effectively with team members, consistently delivering high-quality results..</p>
+                <p className='text-base lg:text-lg'> Hi, I'm Ankit Bhardwaj a dedicated and skilled software developer with a passion for web development and artificial intelligence. He is a fast learner, capable of adapting to any work environment with ease. Alongside his professional skills, Ankit excels at football and enjoys playing outdoor games. He is known for his strong work ethic, reliability, and ability to collaborate effectively with team members, consistently delivering high-quality results.</p>
                 <div className='flex flex-row mt-8'>
                     <TabButton selectTab={() => handleTabChange("skills")} active={tab === "skills"}> {" "} Skills {" "} </TabButton>
                     <TabButton selectTab={() => handleTabChange("education")} active={tab === "education"}> {" "} Education {" "} </TabButton>
