@@ -30,7 +30,7 @@ const HeroSection = () => {
                 </div>
             </div>
             <div className='col-span-5 place-self-center mt-4 lg:mt-0'>
-                <div className=" bg-[#1a1818] w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] relative">
+                <div className=" bg-[#121212] w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] relative">
                     <Image
                         src='/image/profilephoto.jpg'
                         alt='Profile Photo'
