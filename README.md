@@ -1,3 +1,12 @@
+
+
+
+https://github.com/AnkitDotCode/AspireNex_task1/assets/142796989/2d72e1de-265a-45d9-924c-741f84a146d5
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
