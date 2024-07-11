@@ -30,11 +30,11 @@ const HeroSection = () => {
                 </div>
             </div>
             <div className='col-span-5 place-self-center mt-4 lg:mt-0'>
-                <div className="rounded-full bg-[#1a1818] w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] relative">
+                <div className=" bg-[#1a1818] w-[300px] h-[300px] lg:w-[450px] lg:h-[450px] relative">
                     <Image
                         src='/image/profilephoto.jpg'
                         alt='Profile Photo'
-                        className='rounded-full aspect-square object-cover absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'
+                        className='object-cover absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2'
                         width={400}
                         height={400}
                     /> 
