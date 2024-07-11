@@ -37,6 +37,7 @@ const TAB_DATA = [
             <ul className='list-disc pl-2'>
                 <li>Apna College - Java DSA</li>
                 <li>Udemy - Web Development</li>
+                <li>ROBO AI</li>
             </ul>
         )
     }
